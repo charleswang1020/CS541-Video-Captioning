@@ -13,6 +13,8 @@ CNN-RNN (GAN) is the based approach with the using of the encoder-decoder framew
 
 ![](/images/CS541%20Project%20Proposal.jpg)
 ## Data Source
+Compiled from [1], [2], and dataset search
+
 |    Dataset  | Domain | Classes| Videos | Clips | Sentence|  Words  |  Vocab | Len(hrs) |
 |:-----------:|:------:|:------:|:------:|:-----:|:-------:|:-------:|:------:|:--------:|
 |     MSCD    |  Open  |   218  |  1,970 | 1,970 |  70,028 | 607,339 | 13,010 |     5    |

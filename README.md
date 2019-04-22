@@ -1,5 +1,2 @@
-# CS541-Video-Captioning-
-fdsafdafdsfdsaf
-fdsafdsa
-fdasfsadfasf
-fdasfas
+# CS541-2019S-Video Captioning
+WPI CS 539 Machine Learning Project 

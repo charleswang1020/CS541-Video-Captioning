@@ -6,7 +6,7 @@ The accurate automated captioning videos is an important task for both making vi
 
 ## Method
 CNN-RNN (GAN) is the based approach with the using of the encoder-decoder framework. This category of approaches leverage advanced pre-trained CNNs to efficiently and accurately preprocess the image component of the video data and trains an RNN to collect data from multiple frames and then generate the sentences. This approach is augmented with some of the newest pre-trained CNN models for our initial image feature extraction.
-![](/images/CS541 Project Proposal.jpg)
+![](/CS541 Project Proposal.jpg)
 
 ## Data Source
 

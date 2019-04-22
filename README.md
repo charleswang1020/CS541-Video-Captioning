@@ -19,3 +19,16 @@ CNN-RNN (GAN) is the based approach with the using of the encoder-decoder framew
 
 
 ## Presentation Slides
+
+## References
+[1] Aafaq,  Nayyer,  Gilani,  Syed  Zulqarnain,  Liu,  Wei,  and Mian,  Ajmal. Video description:   a survey of methods, datasets and evaluation metrics. arXiv preprint arXiv:1806.00186, 2018.
+
+[2] Gella, Spandana, Lewis, Mike, and Rohrbach, Marcus.  A dataset for telling the stories of social media  videos. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pp. 968–974, 2018
+
+[3] Lavie, Alon and Agarwal, Abhaya.  Meteor: An automatic metric for mt evaluation with high levels of correlation with human judgments.   In Proceedings of the Second Workshop on Statistical Machine Translation,  StatMT’07, pp. 228–231, 2007.
+
+[4] Vedantam, Ramakrishna, Lawrence Zitnick, C., and Parikh, Devi.  Cider: Consensus-based image description evaluation.  In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2015.
+
+[5] Venugopalan,  Subhashini,  Rohrbach,  Marcus,  Donahue, Jeffrey, Mooney, Raymond, Darrell, Trevor, and Saenko, Kate. Sequence to sequence - video to text. In The IEEE International Conference on Computer Vision (ICCV), December 2015.
+
+[6] Xu,  Jun,  Mei,  Tao,  Yao,  Ting,  and  Rui,  Yong.   Msr-vtt: A large video description dataset for bridging video and language.  In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2016

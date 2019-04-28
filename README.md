@@ -21,7 +21,7 @@ Compiled from [1], [2], and dataset search
 |    MSR-VTT  |  Open  |   20   |  7,180 | 10,000| 200,000 |1,856,523| 29,316 |     5    |
 
 ## Video Demo
-![](/images/Screenshot_Demo.jpg)
+![](/images/Screenshot_Demo.)
 
 ## Presentation Slides
 

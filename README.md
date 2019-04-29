@@ -23,12 +23,21 @@ Compiled from [1], [2], and dataset search
 |:-----------:|:------:|:------:|:------:|:-----:|:-------:|:-------:|:------:|:--------:|
 |    MSR-VTT  |  Open  |   20   |  7,180 | 10,000| 200,000 |1,856,523| 29,316 |     5    |
 
-## 5. Video Demo
+## 5. Usage
+<pre><code>python data_loader.py<br/>
+python process_data.py<br/>
+python metrics.py<br/>
+python utils.py<br/>
+python network.py<br/>
+python utils.py<br/>
+python train.py<br/></code></pre>
+
+## 6. Video Demo
 ![](/images/Screenshot_Demo.JPG)
 
-## 6. Presentation Slides
+## 7. Presentation Slides
 
-## 7. References
+## 8. References
 [1] Aafaq,  Nayyer,  Gilani,  Syed  Zulqarnain,  Liu,  Wei,  and Mian,  Ajmal. Video description:   a survey of methods, datasets and evaluation metrics. arXiv preprint arXiv:1806.00186, 2018.
 
 [2] Gella, Spandana, Lewis, Mike, and Rohrbach, Marcus.  A dataset for telling the stories of social media  videos. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pp. 968–974, 2018

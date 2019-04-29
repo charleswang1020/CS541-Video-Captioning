@@ -21,7 +21,6 @@ Compiled from [1], [2], and dataset search
 
 |    Dataset  | Domain | Classes| Videos | Clips | Sentence|  Words  |  Vocab | Len(hrs) |
 |:-----------:|:------:|:------:|:------:|:-----:|:-------:|:-------:|:------:|:--------:|
-|     MSCD    |  Open  |   218  |  1,970 | 1,970 |  70,028 | 607,339 | 13,010 |     5    |
 |    MSR-VTT  |  Open  |   20   |  7,180 | 10,000| 200,000 |1,856,523| 29,316 |     5    |
 
 ## Video Demo

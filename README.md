@@ -9,9 +9,11 @@ OpenCV (Python)
 * pip install python-opencv
 
 ## Method
-CNN-RNN (GAN) is the based approach with the using of the encoder-decoder framework. This category of approaches leverage advanced pre-trained CNNs to efficiently and accurately preprocess the image component of the video data and trains an RNN to collect data from multiple frames and then generate the sentences. This approach is augmented with some of the newest pre-trained CNN models for our initial image feature extraction.
+We propose a CNN-RNN based approach using the encoder-decoder framework. This category of approaches leverage advanced pretrained CNNs to efficiently and accurately preprocess the image component of the video data and trains an RNN to collect data from multiple frames and then generate the sentences. We augment this approach with some of the newest pretrained CNN models for our initial image feature extraction.<br>
+CNN-RNN framework whose the first high-level features are extracted from a CNN trained on the image classification task, and then a recurrent model learns to predict subsequent words of a caption conditioned on image features and previously predicted words.<br>
 
 ![](/images/Network_diagram.JPG)
+
 ## Data Source
 Compiled from [1], [2], and dataset search
 
